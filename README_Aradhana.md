@@ -1,12 +1,6 @@
 \# Practical 01 — MLOps Workbench
 
-
-
-\## Student Work
-
-
-
-This repository contains my submission for Practical 01 — Your MLOps Workbench.
+This repository contains  Practical 01 - MLOps Workbench.
 
 
 
